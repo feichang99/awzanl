@@ -8,14 +8,16 @@
 ! Email: cjxlist@gmail.com
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
-v.ifeng.com##.flashcontrol-placeholder
+*.ifeng.com##.flashcontrol-placeholder
 ifeng.com##.flashcontrol-placeholder
 ifeng.com###wx
-v.ifeng.com##.vPanelAppCode
-v.ifeng.com##.vPanelFeedView
-v.ifeng.com##.vPanelFeedSimple
-v.ifeng.com###js_vfeed
-v.ifeng.com##.vPanelFeed
-v.ifeng.com##.hot_img
-v.ifeng.com##.swiper-slide.footer_fixed
-i.ifeng.com##.luckgbag-main
+*.ifeng.com##.vPanelAppCode
+*.ifeng.com##.vPanelFeedView
+*.ifeng.com##.vPanelFeedSimple
+*.ifeng.com###js_vfeed
+*.ifeng.com##.vPanelFeed
+*.ifeng.com##.hot_img
+*.ifeng.com##.swiper-slide.footer_fixed
+*.ifeng.com##.luckgbag-main
+*.ifeng.com##.flashcontrol-placeholder
+*.ifeng.com###wx
