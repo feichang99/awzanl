@@ -32,3 +32,5 @@
 ###appIn
 ###upprev_box
 v.ifeng.com##.flashcontrol-placeholder
+ifeng.com##.flashcontrol-placeholder
+ifeng.com###wx
