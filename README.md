@@ -10,27 +10,13 @@
 ! Email: cjxlist@gmail.com
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
-!--------------------------General blocking filters---------------------------!
-=Ad_ZPlusGoods&
-/source/plugin/yw_alergin/*
--bobo_recommend_
-/dongaogg/*
-/tb/_/video_frs_head_
-/z.zolapp.
-/tencentvideo/script/webtips/*
-/loooyu.js
-/wp-content/plugins/upprev/*
-/shenmago_download_app_
-!------------------------General element hiding rules-------------------------!
-###b_login
-###windlocation
-###qrcodeWrap
-###qrcodeDownloadBar
-###login_wp.foot_flwp
-###SOHU_MAIN > .module-cmt-float-bar
-###appBottomIn
-###appIn
-###upprev_box
 v.ifeng.com##.flashcontrol-placeholder
 ifeng.com##.flashcontrol-placeholder
 ifeng.com###wx
+v.ifeng.com##.vPanelAppCode
+v.ifeng.com##.vPanelFeedView
+v.ifeng.com##.vPanelFeedSimple
+v.ifeng.com###js_vfeed
+v.ifeng.com##.vPanelFeed
+v.ifeng.com##.hot_img
+v.ifeng.com##.swiper-slide.footer_fixed
