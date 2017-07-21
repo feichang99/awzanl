@@ -20,3 +20,4 @@ v.ifeng.com###js_vfeed
 v.ifeng.com##.vPanelFeed
 v.ifeng.com##.hot_img
 v.ifeng.com##.swiper-slide.footer_fixed
+i.ifeng.com##.luckgbag-main
