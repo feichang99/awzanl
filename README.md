@@ -1,6 +1,4 @@
 [Adblock Plus 2.0]
-! Checksum: Gp+NEOb07OHiYidhb99D/Q
-! Version: 201707172038
 ! Title: awzanl
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
