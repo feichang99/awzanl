@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: Gp+NEOb07OHiYidhb99D/Q
 ! Version: 201707172038
-! Title: CJX's Annoyance List
+! Title: awzanl
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
 ! Last modified: 2017/07/17 20:38 +0800
@@ -12,7 +12,7 @@
 !
 !--------------------------General blocking filters---------------------------!
 =Ad_ZPlusGoods&
-/source/plugin/yw_alertlogin/*
+/source/plugin/yw_alergin/*
 -bobo_recommend_
 /dongaogg/*
 /tb/_/video_frs_head_
