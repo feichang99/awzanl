@@ -31,3 +31,4 @@
 ###appBottomIn
 ###appIn
 ###upprev_box
+v.ifeng.com##.flashcontrol-placeholder
