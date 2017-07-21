@@ -18,9 +18,9 @@ ifeng.com###wx
 *.ifeng.com##.vPanelFeed
 *.ifeng.com##.hot_img
 *.ifeng.com##.swiper-slide.footer_fixed
-*.ifeng.com##.luckgbag-main
 *.ifeng.com##.flashcontrol-placeholder
 *.ifeng.com###wx
 *.baidu.com###bbh57_1
 *.baidu.com###bbh57
 *.ifeng.com##.luckgbag-main
+inews.ifeng.com##.luckgbag-main
