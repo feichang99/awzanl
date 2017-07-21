@@ -24,3 +24,12 @@ ifeng.com###wx
 *.baidu.com###bbh57
 *.ifeng.com##.luckgbag-main
 inews.ifeng.com##.luckgbag-main
+i.ifeng.com##.luckgbag-main
+i.ifeng.com##.hot_doc
+i.ifeng.com##.ftf_l
+i.ifeng.com###slide_4
+i.ifeng.com##.hot_bottom
+i.ifeng.com##.btn_close
+||c1.ifengimg.com/mappa/2017/07/20/*.jpg
+i.ifeng.com##h3[style=" height:40px; line-height:40px; font-size:16px; color:#000;"]
+i.ifeng.com##.iis_m_home_feed_d1
