@@ -21,3 +21,6 @@ ifeng.com###wx
 *.ifeng.com##.luckgbag-main
 *.ifeng.com##.flashcontrol-placeholder
 *.ifeng.com###wx
+*.baidu.com###bbh57_1
+*.baidu.com###bbh57
+*.ifeng.com##.luckgbag-main
